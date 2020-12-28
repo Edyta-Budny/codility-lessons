@@ -10,5 +10,3 @@ C = 6
 D = 11
 E = 2
 print(solution(C, D, E))
-
-

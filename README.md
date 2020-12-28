@@ -7,7 +7,7 @@ Solutions from available lessons on the Codility_ platform to refresh basic prog
 - [x] Lesson 1 - Iterations
 - [x] Lesson 2 - Arrays
 - [x] Lesson 3 - Time Complexity
-- [ ] Lesson 4 - Counting Elements
+- [X] Lesson 4 - Counting Elements
 - [ ] Lesson 5 - Prefix Sums
 - [ ] Lesson 6 - Sorting
 - [ ] Lesson 7 - Stacks and Queues
